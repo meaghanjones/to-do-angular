@@ -51,4 +51,4 @@ SETUP NOTES //////////////////////
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **Meaghan Joes**
+Copyright (c) 2016 **Meaghan Jones**
